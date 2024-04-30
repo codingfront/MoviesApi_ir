@@ -304,6 +304,13 @@ class MoviesService
             $object->imdb_votes = $movie->imdb_votes;
             $object->imdb_id = $movie->imdb_id;
             $object->type = $movie->type;
+            $object->website = $movie->website;
+            $object->language = $movie->language;
+            $object->ratings = $movie->ratings;
+            $object->dvd = $movie->dvd;
+            $object->box_office = $movie->box_office;
+            $object->production = $movie->production;
+            $object->response = $movie->response;
 
             foreach ($movie->genre as $gen)
             {

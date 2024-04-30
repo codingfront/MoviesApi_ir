@@ -23,7 +23,17 @@ class GenresTableSeeder extends Seeder
             array('id' => '7','name' => 'Fantasy','created_at' => '2016-12-13 23:04:46','updated_at' => '2016-12-13 23:04:46','system_data' => '1'),
             array('id' => '8','name' => 'Western','created_at' => '2016-12-13 23:04:46','updated_at' => '2016-12-13 23:04:46','system_data' => '1'),
             array('id' => '9','name' => 'Comedy','created_at' => '2016-12-13 23:04:47','updated_at' => '2016-12-13 23:04:47','system_data' => '1'),
-            array('id' => '10','name' => 'Sci-Fi','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1')
+            array('id' => '10','name' => 'Sci-Fi','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1'),
+            array('id' => '11','name' => 'Romance','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1'),
+            array('id' => '12','name' => 'Mystery','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1'),
+            array('id' => '13','name' => 'Family','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1'),
+            array('id' => '14','name' => 'War','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1'),
+            array('id' => '15','name' => 'Thriller','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1'),
+            array('id' => '16','name' => 'Horror','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1'),
+            array('id' => '17','name' => 'Music','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1'),
+            array('id' => '18','name' => 'Animation','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1'),
+            array('id' => '19','name' => 'Film-Noir','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1'),
+            array('id' => '20','name' => 'Sport','created_at' => '2016-12-13 23:04:48','updated_at' => '2016-12-13 23:04:48','system_data' => '1')
         );
 
 

@@ -19,6 +19,13 @@ class CreateMoviesTable extends Migration
             $table->string('title');
             $table->string('year');
             $table->string('rated')->nullable();
+            $table->string('ratings')->nullable();
+            $table->string('language')->nullable();
+            $table->string('dvd')->nullable();
+            $table->string('box_office')->nullable();
+            $table->string('production')->nullable();
+            $table->string('website')->nullable();
+            $table->string('response')->nullable();
             $table->string('released')->nullable();
             $table->string('runtime')->nullable();
             $table->string('director')->nullable();
